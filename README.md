@@ -13,5 +13,5 @@ This is a getting started guide for building the entire stack needed for OneVPL 
 Host - OneVPL with the OneVPL GPU Runtime (https://github.com/oneapi-src/oneVPL-intel-gpu/releases/tag/intel-onevpl-22.5.4)
 1. TBD - reference the Dockerfile file for an equivalent host install.
 
-### Monitoring GPU usage
+## Monitoring GPU usage
 From a terminal execute sudo intel_gpu_top. The install the utility execute apt install -y intel-gpu-tools
