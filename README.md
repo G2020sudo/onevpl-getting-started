@@ -1,5 +1,8 @@
 # onevpl-getting-started
-This is a getting started guide for building the entire stack needed for OneVPL as described at https://github.com/oneapi-src/oneVPL-intel-gpu/releases/tag/intel-onevpl-22.5.4
+This is a getting started guide for building the entire stack needed for OneVPL as described at https://github.com/oneapi-src/oneVPL-intel-gpu/releases/tag/intel-onevpl-22.5.4 on Ubuntu 20.04 LTS
+
+## Pre-req
+Ensure ls -l /dev/dri* returns results such as renderD128
 
 ## Docker Build Steps
 
